@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CompanyManagement.Application/1.0.0": {
+        "dependencies": {
+          "CompanyManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CompanyManagement.Application.dll": {}
+        }
+      },
+      "CompanyManagement.Domain/1.0.0": {
+        "runtime": {
+          "CompanyManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\.net\\CompanyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773050-93F4-40C7-92E6-89B28DA22CDF}|CompanyManagement.Application\\CompanyManagement.Application.csproj|c:\\repos\\.net\\companymanagement\\companymanagement.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773050-93F4-40C7-92E6-89B28DA22CDF}|CompanyManagement.Application\\CompanyManagement.Application.csproj|solutionrelative:companymanagement.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9B6C90-6D5A-4691-97A4-4BEBD9C5AFA1}|CompanyManagement.Tests\\CompanyManagement.Tests.csproj|c:\\repos\\.net\\companymanagement\\companymanagement.tests\\departmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9B6C90-6D5A-4691-97A4-4BEBD9C5AFA1}|CompanyManagement.Tests\\CompanyManagement.Tests.csproj|solutionrelative:companymanagement.tests\\departmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9B6C90-6D5A-4691-97A4-4BEBD9C5AFA1}|CompanyManagement.Tests\\CompanyManagement.Tests.csproj|c:\\repos\\.net\\companymanagement\\companymanagement.tests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9B6C90-6D5A-4691-97A4-4BEBD9C5AFA1}|CompanyManagement.Tests\\CompanyManagement.Tests.csproj|solutionrelative:companymanagement.tests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Application\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Application\\Program.cs",
+              "ToolTip": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Application\\Program.cs",
+              "RelativeToolTip": "CompanyManagement.Application\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:30:40.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentTests.cs",
+              "DocumentMoniker": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Tests\\DepartmentTests.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Tests\\DepartmentTests.cs",
+              "ToolTip": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Tests\\DepartmentTests.cs",
+              "RelativeToolTip": "CompanyManagement.Tests\\DepartmentTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:25:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Tests\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Tests\\CustomerTests.cs",
+              "ToolTip": "C:\\repos\\.net\\CompanyManagement\\CompanyManagement.Tests\\CustomerTests.cs",
+              "RelativeToolTip": "CompanyManagement.Tests\\CustomerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:25:06.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
